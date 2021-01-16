@@ -1,2 +1,3 @@
 makepkg
+
 makepkg --install
